@@ -27,15 +27,5 @@ python app.py
 http://127.0.0.1:5000
 
 HOTEL RESERVATION SYSTEM/
-│── app.py
-│── trainmodel.py
-│── model.pkl
-│── hotel_booking.csv
-│── templates/
-│   └── index.html
-│── static/
-│   ├── script.js
-│   ├── style.css
-│   └── images/
-│       ├── hotel1.jpg
-│       └── hotel2.jpg
+<img width="320" height="317" alt="image" src="https://github.com/user-attachments/assets/d21c4e30-2bb7-4e08-8054-f380f0e9a816" />
+
